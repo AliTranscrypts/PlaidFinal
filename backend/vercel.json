@@ -1,0 +1,10 @@
+{
+  "functions": {
+    "api/create-link-token.js": {
+      "maxDuration": 10
+    },
+    "api/exchange-public-token.js": {
+      "maxDuration": 10
+    }
+  }
+}
